@@ -1,6 +1,5 @@
 # Frontend Mentor - Frontend quiz app solution
 
-This is a solution to the [Frontend quiz app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/frontend-quiz-app-BE7xkzXQnU). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -11,7 +10,7 @@ This is a solution to the [Frontend quiz app challenge on Frontend Mentor](https
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -30,10 +29,7 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 - **Bonus**: Change the app's theme between light and dark
 
-### Links
-
-- Solution URL: [https://github.com/Olatoyan/frontend-quiz-app](https://github.com/Olatoyan/frontend-quiz-app)
-- Live Site URL: [https://toyan-quiz.netlify.app/](https://toyan-quiz.netlify.app/)
+#
 
 ## My process
 
@@ -45,7 +41,4 @@ Users should be able to:
 - [React](https://reactjs.org/) - JS library
 - [Tailwind CSS](https://tailwindcss.com/) - For styles
 
-## Author
 
-- Frontend Mentor - [@olatoyan](https://www.frontendmentor.io/profile/olatoyan)
-- Twitter - [@Toyan](https://www.twitter.com/_annonnymouss_)
